@@ -1,0 +1,10 @@
+E:\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.exe.config
+E:\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.exe
+E:\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.pdb
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.AssemblyReference.cache
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed_System_Project.frm_Main.resources
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed_System_Project.Properties.Resources.resources
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.GenerateResource.cache
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.CoreCompileInputs.cache
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.exe
+E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.pdb

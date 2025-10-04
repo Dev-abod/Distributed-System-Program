@@ -1,0 +1,10 @@
+E:\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.exe.config
+E:\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.exe
+E:\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.pdb
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.AssemblyReference.cache
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.frm_Proccess.resources
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.Properties.Resources.resources
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.GenerateResource.cache
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.CoreCompileInputs.cache
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.exe
+E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.pdb

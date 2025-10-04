@@ -1,0 +1,10 @@
+E:\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.exe.config
+E:\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.exe
+E:\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.pdb
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.AssemblyReference.cache
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server_One_Client_One_Message.frm_ServerOneClientOneMessage.resources
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server_One_Client_One_Message.Properties.Resources.resources
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.GenerateResource.cache
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.CoreCompileInputs.cache
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.exe
+E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.pdb

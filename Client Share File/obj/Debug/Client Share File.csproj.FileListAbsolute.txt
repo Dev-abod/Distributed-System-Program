@@ -1,0 +1,10 @@
+E:\Distributed Systems\Client Share File\bin\Debug\Client Share File.exe.config
+E:\Distributed Systems\Client Share File\bin\Debug\Client Share File.exe
+E:\Distributed Systems\Client Share File\bin\Debug\Client Share File.pdb
+E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.AssemblyReference.cache
+E:\Distributed Systems\Client Share File\obj\Debug\Client_Share_File.frm_ClientShareFile.resources
+E:\Distributed Systems\Client Share File\obj\Debug\Client_Share_File.Properties.Resources.resources
+E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.GenerateResource.cache
+E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.CoreCompileInputs.cache
+E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.exe
+E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.pdb
