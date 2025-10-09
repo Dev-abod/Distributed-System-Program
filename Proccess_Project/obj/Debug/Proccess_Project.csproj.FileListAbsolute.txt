@@ -8,3 +8,13 @@ E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.Genera
 E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.exe
 E:\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.pdb
+D:\My_Projects\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.exe.config
+D:\My_Projects\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.exe
+D:\My_Projects\Distributed Systems\Proccess_Project\bin\Debug\Proccess_Project.pdb
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.frm_Proccess.resources
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.exe
+D:\My_Projects\Distributed Systems\Proccess_Project\obj\Debug\Proccess_Project.pdb

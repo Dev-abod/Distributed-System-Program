@@ -8,3 +8,13 @@ E:\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi
 E:\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.exe
 E:\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.pdb
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\bin\Debug\Server Multi Client Multi Messages.exe.config
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\bin\Debug\Server Multi Client Multi Messages.exe
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\bin\Debug\Server Multi Client Multi Messages.pdb
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server_Multi_Client_Multi_Messages.Form1.resources
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server_Multi_Client_Multi_Messages.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.exe
+D:\My_Projects\Distributed Systems\Server Multi Client Multi Messages\obj\Debug\Server Multi Client Multi Messages.pdb

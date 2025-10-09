@@ -8,3 +8,13 @@ E:\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.csproj.GenerateRe
 E:\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.exe
 E:\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.pdb
+D:\My_Projects\Distributed Systems\Thread_Project\bin\Debug\Thread_Project.exe.config
+D:\My_Projects\Distributed Systems\Thread_Project\bin\Debug\Thread_Project.exe
+D:\My_Projects\Distributed Systems\Thread_Project\bin\Debug\Thread_Project.pdb
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.frm_Thread.resources
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.exe
+D:\My_Projects\Distributed Systems\Thread_Project\obj\Debug\Thread_Project.pdb

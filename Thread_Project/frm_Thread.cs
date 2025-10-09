@@ -157,7 +157,7 @@ namespace Thread_Project
             }).Start();
         }
 
-      
+
         // ====== تعريفات المندوبين ======
         delegate void ChangeLableDelegate(int x);
         delegate void ChangeLabelDelegateWithoutPrarameter();

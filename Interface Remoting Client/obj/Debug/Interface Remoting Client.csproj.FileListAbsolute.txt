@@ -1,0 +1,13 @@
+D:\My_Projects\Distributed Systems\Interface Remoting Client\bin\Debug\Interface Remoting Client.exe.config
+D:\My_Projects\Distributed Systems\Interface Remoting Client\bin\Debug\Interface Remoting Client.exe
+D:\My_Projects\Distributed Systems\Interface Remoting Client\bin\Debug\Interface Remoting Client.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface Remoting Client.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface_Remoting_Client.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface Remoting Client.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface Remoting Client.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface Remoting Client.exe
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface Remoting Client.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interface_Remoting_Client.frm_InterfaceRemotingClient.resources
+D:\My_Projects\Distributed Systems\Interface Remoting Client\bin\Debug\Inerface Class Library.dll
+D:\My_Projects\Distributed Systems\Interface Remoting Client\bin\Debug\Inerface Class Library.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Client\obj\Debug\Interfac.3D2F41FF.Up2Date

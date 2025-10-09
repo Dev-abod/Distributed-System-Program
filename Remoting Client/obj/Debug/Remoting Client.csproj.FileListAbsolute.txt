@@ -1,0 +1,13 @@
+D:\My_Projects\Distributed Systems\Remoting Client\bin\Debug\Remoting Client.exe.config
+D:\My_Projects\Distributed Systems\Remoting Client\bin\Debug\Remoting Client.exe
+D:\My_Projects\Distributed Systems\Remoting Client\bin\Debug\Remoting Client.pdb
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting Client.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting_Client.frm_RemotingClient.resources
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting_Client.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting Client.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting Client.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting Client.exe
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting Client.pdb
+D:\My_Projects\Distributed Systems\Remoting Client\bin\Debug\Remoting Class Library.dll
+D:\My_Projects\Distributed Systems\Remoting Client\bin\Debug\Remoting Class Library.pdb
+D:\My_Projects\Distributed Systems\Remoting Client\obj\Debug\Remoting.E30A6F5D.Up2Date

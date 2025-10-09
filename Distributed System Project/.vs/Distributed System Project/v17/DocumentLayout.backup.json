@@ -1,7 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Distributed Systems\\Distributed System Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\My_Projects\\Distributed Systems\\Distributed System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315F0FC6-5DDB-40DF-B660-C05E751D4471}|..\\Interface Remoting Server\\Interface Remoting Server.csproj|d:\\my_projects\\distributed systems\\interface remoting server\\frm_interfaceremotingserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C45170-E203-4004-AB8B-362929CB4A4B}|..\\Interface Remoting Client\\Interface Remoting Client.csproj|d:\\my_projects\\distributed systems\\interface remoting client\\frm_interfaceremotingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C45170-E203-4004-AB8B-362929CB4A4B}|..\\Interface Remoting Client\\Interface Remoting Client.csproj|d:\\my_projects\\distributed systems\\interface remoting client\\frm_interfaceremotingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315F0FC6-5DDB-40DF-B660-C05E751D4471}|..\\Interface Remoting Server\\Interface Remoting Server.csproj|d:\\my_projects\\distributed systems\\interface remoting server\\frm_interfaceremotingserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF48C0-768E-401F-8506-6AF44CEB352F}|..\\Inerface Class Library\\Inerface Class Library.csproj|d:\\my_projects\\distributed systems\\inerface class library\\inerface_class_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +34,69 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inerface_Class_Library.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Distributed Systems\\Inerface Class Library\\Inerface_Class_Library.cs",
+              "RelativeDocumentMoniker": "..\\Inerface Class Library\\Inerface_Class_Library.cs",
+              "ToolTip": "D:\\My_Projects\\Distributed Systems\\Inerface Class Library\\Inerface_Class_Library.cs",
+              "RelativeToolTip": "..\\Inerface Class Library\\Inerface_Class_Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:24:14.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_InterfaceRemotingClient.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "RelativeDocumentMoniker": "..\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "ToolTip": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "RelativeToolTip": "..\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:21:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_InterfaceRemotingServer.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "RelativeDocumentMoniker": "..\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "ToolTip": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "RelativeToolTip": "..\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:14:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_InterfaceRemotingClient.cs [Design]",
+              "DocumentMoniker": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "RelativeDocumentMoniker": "..\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs",
+              "ToolTip": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs [Design]",
+              "RelativeToolTip": "..\\Interface Remoting Client\\frm_InterfaceRemotingClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:06:48.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_InterfaceRemotingServer.cs [Design]",
+              "DocumentMoniker": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "RelativeDocumentMoniker": "..\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs",
+              "ToolTip": "D:\\My_Projects\\Distributed Systems\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs [Design]",
+              "RelativeToolTip": "..\\Interface Remoting Server\\frm_InterfaceRemotingServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:06:37.199Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -8,3 +8,13 @@ E:\Distributed Systems\Server Share File\obj\Debug\Server Share File.csproj.Gene
 E:\Distributed Systems\Server Share File\obj\Debug\Server Share File.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Server Share File\obj\Debug\Server Share File.exe
 E:\Distributed Systems\Server Share File\obj\Debug\Server Share File.pdb
+D:\My_Projects\Distributed Systems\Server Share File\bin\Debug\Server Share File.exe.config
+D:\My_Projects\Distributed Systems\Server Share File\bin\Debug\Server Share File.exe
+D:\My_Projects\Distributed Systems\Server Share File\bin\Debug\Server Share File.pdb
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server Share File.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server_Share_File.frm_SreverShareFile.resources
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server_Share_File.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server Share File.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server Share File.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server Share File.exe
+D:\My_Projects\Distributed Systems\Server Share File\obj\Debug\Server Share File.pdb

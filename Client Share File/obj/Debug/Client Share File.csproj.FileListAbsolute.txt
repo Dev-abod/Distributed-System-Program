@@ -8,3 +8,13 @@ E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.Gene
 E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.exe
 E:\Distributed Systems\Client Share File\obj\Debug\Client Share File.pdb
+D:\My_Projects\Distributed Systems\Client Share File\bin\Debug\Client Share File.exe.config
+D:\My_Projects\Distributed Systems\Client Share File\bin\Debug\Client Share File.exe
+D:\My_Projects\Distributed Systems\Client Share File\bin\Debug\Client Share File.pdb
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client_Share_File.frm_ClientShareFile.resources
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client_Share_File.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client Share File.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client Share File.exe
+D:\My_Projects\Distributed Systems\Client Share File\obj\Debug\Client Share File.pdb

@@ -1,0 +1,10 @@
+D:\My_Projects\Distributed Systems\UDP_Chat\bin\Debug\UDP_Chat.exe.config
+D:\My_Projects\Distributed Systems\UDP_Chat\bin\Debug\UDP_Chat.exe
+D:\My_Projects\Distributed Systems\UDP_Chat\bin\Debug\UDP_Chat.pdb
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.frm_Chat.resources
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.exe
+D:\My_Projects\Distributed Systems\UDP_Chat\obj\Debug\UDP_Chat.pdb

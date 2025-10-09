@@ -1,0 +1,6 @@
+D:\My_Projects\Distributed Systems\Remoting Class Library\bin\Debug\Remoting Class Library.dll
+D:\My_Projects\Distributed Systems\Remoting Class Library\bin\Debug\Remoting Class Library.pdb
+D:\My_Projects\Distributed Systems\Remoting Class Library\obj\Debug\Remoting Class Library.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Remoting Class Library\obj\Debug\Remoting Class Library.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Remoting Class Library\obj\Debug\Remoting Class Library.dll
+D:\My_Projects\Distributed Systems\Remoting Class Library\obj\Debug\Remoting Class Library.pdb

@@ -1,0 +1,10 @@
+D:\My_Projects\Distributed Systems\Server_Test\bin\Debug\Server_Test.exe.config
+D:\My_Projects\Distributed Systems\Server_Test\bin\Debug\Server_Test.exe
+D:\My_Projects\Distributed Systems\Server_Test\bin\Debug\Server_Test.pdb
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.Server_Test.resources
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.exe
+D:\My_Projects\Distributed Systems\Server_Test\obj\Debug\Server_Test.pdb

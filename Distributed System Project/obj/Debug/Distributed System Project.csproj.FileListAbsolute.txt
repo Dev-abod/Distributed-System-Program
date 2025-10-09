@@ -8,3 +8,13 @@ E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System P
 E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.exe
 E:\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.pdb
+D:\My_Projects\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.exe.config
+D:\My_Projects\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.exe
+D:\My_Projects\Distributed Systems\Distributed System Project\bin\Debug\Distributed System Project.pdb
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed_System_Project.frm_Main.resources
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed_System_Project.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.exe
+D:\My_Projects\Distributed Systems\Distributed System Project\obj\Debug\Distributed System Project.pdb

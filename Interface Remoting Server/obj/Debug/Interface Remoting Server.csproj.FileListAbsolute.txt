@@ -1,0 +1,13 @@
+D:\My_Projects\Distributed Systems\Interface Remoting Server\bin\Debug\Interface Remoting Server.exe.config
+D:\My_Projects\Distributed Systems\Interface Remoting Server\bin\Debug\Interface Remoting Server.exe
+D:\My_Projects\Distributed Systems\Interface Remoting Server\bin\Debug\Interface Remoting Server.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface Remoting Server.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface_Remoting_Server.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface Remoting Server.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface Remoting Server.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface Remoting Server.exe
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface Remoting Server.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Server\bin\Debug\Inerface Class Library.dll
+D:\My_Projects\Distributed Systems\Interface Remoting Server\bin\Debug\Inerface Class Library.pdb
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interface_Remoting_Server.Form1.resources
+D:\My_Projects\Distributed Systems\Interface Remoting Server\obj\Debug\Interfac.877C2BA6.Up2Date

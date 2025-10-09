@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Net.Sockets;
 using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Server_Multi_Client_Multi_Messages
@@ -37,12 +31,9 @@ namespace Server_Multi_Client_Multi_Messages
                     {
                         while (true)
                         {
-                            Array.Clear(bReceived, 0,
-                           bReceived.Length);
-                            client.GetStream().Read(bReceived, 0,
-                           bReceived.Length);
-                            string s =
-                           Encoding.Unicode.GetString(bReceived);
+                            Array.Clear(bReceived, 0, bReceived.Length);
+                            client.GetStream().Read(bReceived, 0, bReceived.Length);
+                            string s = Encoding.Unicode.GetString(bReceived);
                             lstMessage.Items.Add(s);
                         }
                     }).Start();

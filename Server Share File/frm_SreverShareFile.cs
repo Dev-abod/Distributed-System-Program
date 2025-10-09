@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Net.Sockets;
 using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Server_Share_File
@@ -34,10 +28,8 @@ namespace Server_Share_File
                     TcpClient client = listener.AcceptTcpClient();
                     while (client.GetStream().DataAvailable == false) ;
                     byte[] bFilePath = new byte[client.Available];
-                    client.GetStream().Read(bFilePath, 0,
-                   bFilePath.Length);
-                    byte[] bFile =
-                   System.IO.File.ReadAllBytes(Encoding.Unicode.GetString(bFilePath));
+                    client.GetStream().Read(bFilePath, 0, bFilePath.Length);
+                    byte[] bFile = System.IO.File.ReadAllBytes(Encoding.Unicode.GetString(bFilePath));
                     client.GetStream().Write(bFile, 0, bFile.Length);
                     client.GetStream().Close();
                 }

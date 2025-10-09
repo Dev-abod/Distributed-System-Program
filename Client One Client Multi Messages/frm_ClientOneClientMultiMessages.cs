@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Net.Sockets;
 using System.Net;
+using System.Net.Sockets;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Client_One_Client_Multi_Messages
@@ -23,7 +17,6 @@ namespace Client_One_Client_Multi_Messages
         {
             IPAddress ip = IPAddress.Parse("127.0.0.1");
             IPEndPoint ipEnd = new IPEndPoint(ip, 8090);
-            client = new TcpClient();
             client.Connect(ipEnd);
         }
 

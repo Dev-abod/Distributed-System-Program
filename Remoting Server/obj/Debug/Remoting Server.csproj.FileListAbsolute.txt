@@ -1,0 +1,13 @@
+D:\My_Projects\Distributed Systems\Remoting Server\bin\Debug\Remoting Server.exe.config
+D:\My_Projects\Distributed Systems\Remoting Server\bin\Debug\Remoting Server.exe
+D:\My_Projects\Distributed Systems\Remoting Server\bin\Debug\Remoting Server.pdb
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting Server.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting_Server.frm_RemotingServer.resources
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting_Server.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting Server.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting Server.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting Server.exe
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting Server.pdb
+D:\My_Projects\Distributed Systems\Remoting Server\bin\Debug\Remoting Class Library.dll
+D:\My_Projects\Distributed Systems\Remoting Server\bin\Debug\Remoting Class Library.pdb
+D:\My_Projects\Distributed Systems\Remoting Server\obj\Debug\Remoting.8AC1AF41.Up2Date

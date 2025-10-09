@@ -8,3 +8,13 @@ E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client
 E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.CoreCompileInputs.cache
 E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.exe
 E:\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.pdb
+D:\My_Projects\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.exe.config
+D:\My_Projects\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.exe
+D:\My_Projects\Distributed Systems\Server One Client One Message\bin\Debug\Server One Client One Message.pdb
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server_One_Client_One_Message.frm_ServerOneClientOneMessage.resources
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server_One_Client_One_Message.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.exe
+D:\My_Projects\Distributed Systems\Server One Client One Message\obj\Debug\Server One Client One Message.pdb

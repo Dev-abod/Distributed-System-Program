@@ -1,0 +1,10 @@
+D:\My_Projects\Distributed Systems\Client One Client One Server\bin\Debug\Client One Client One Server.exe.config
+D:\My_Projects\Distributed Systems\Client One Client One Server\bin\Debug\Client One Client One Server.exe
+D:\My_Projects\Distributed Systems\Client One Client One Server\bin\Debug\Client One Client One Server.pdb
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client One Client One Server.csproj.AssemblyReference.cache
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client_One_Client_One_Server.frm_ClientOneClientOneServer.resources
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client_One_Client_One_Server.Properties.Resources.resources
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client One Client One Server.csproj.GenerateResource.cache
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client One Client One Server.csproj.CoreCompileInputs.cache
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client One Client One Server.exe
+D:\My_Projects\Distributed Systems\Client One Client One Server\obj\Debug\Client One Client One Server.pdb
